@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://tk-ramen.github.io/tokyo-beauty-clinic-ranking/sitemap.xml
+
